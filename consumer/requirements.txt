@@ -1,0 +1,3 @@
+boto3
+pydantic_settings
+python-dotenv
